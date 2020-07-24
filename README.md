@@ -14,5 +14,5 @@ database
 port
 ```
 
-3. 修改程序启动配置 `TRS_FILE_PATH`
+3. 修改程序启动配置即 `app.js`中的`TRS_FILE_PATH`
 4. 开始执行`npm run app`
